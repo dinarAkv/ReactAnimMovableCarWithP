@@ -1,2 +1,0 @@
-# ReactAnimMovableCarWithP
-Created with CodeSandbox
